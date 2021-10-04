@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/WiringPi.dir/Opdracht1_wiringpi.c.o  -o WiringPi  -lmariadb -lwiringPi 

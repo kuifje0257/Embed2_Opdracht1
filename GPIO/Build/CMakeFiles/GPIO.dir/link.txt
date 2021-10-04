@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/GPIO.dir/Opdracht1_gpio.c.o  -o GPIO  -lmariadb -lPJ_RPI 
